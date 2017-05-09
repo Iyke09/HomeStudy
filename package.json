@@ -1,0 +1,14 @@
+{
+  "name": "andela",
+  "version": "1.0.0",
+  "description": "\"awesome page\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/testspec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
